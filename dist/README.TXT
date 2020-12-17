@@ -13,3 +13,4 @@ Per eseguire il programma da linea di comando, aprire una finestra CMD nella pos
 
 java -jar "LANSpeedTester.jar" 
 
+Poi seguire le istruzioni del programma.
